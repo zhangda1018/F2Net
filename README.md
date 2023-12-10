@@ -15,7 +15,7 @@ A simple reproduction of this paper with PyTorch:
 
 ## Network Architecture
 
-![Structure_00](C:\Users\20329\Desktop\NWPU\zd论文\5.2023基于特征融合的航空发动机寿命预测 推进技术\图\Structure_00.png)
+![Structure_00](./Fig/structure.png)
 
 ## Eval Metrics
 
@@ -26,7 +26,7 @@ A simple reproduction of this paper with PyTorch:
 
 1. Prediction:
 
-![1702188177992](C:\Users\20329\AppData\Roaming\Typora\typora-user-images\1702188177992.png)
+![1702188177992](./Fig/prediction.png)
 
 2. Comparison:
 
