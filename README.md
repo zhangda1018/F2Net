@@ -1,7 +1,7 @@
 # C-MPASS FD001 RUL Prediction
 Paper: Remaining Useful Life Prediction of Aeroengine Based on Feature Fusion
 
-A simple reproduction of this paper with PyTorch:
+A simple reproduction of this paper with PyTorch.
 
 ## Requirements
 
